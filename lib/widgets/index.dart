@@ -1,6 +1,14 @@
+export 'button_purple.dart';
 export 'card_image.dart';
 export 'card_image_list.dart';
 export 'description_place.dart';
+export 'floating_action_button_green.dart';
 export 'gradient_back.dart';
+export 'header_appbar.dart';
+export 'home_trips.dart';
+export 'platzi_trips.dart';
+export 'platzi_trips_cupertino.dart';
+export 'profile_trips.dart';
 export 'review.dart';
 export 'review_list.dart';
+export 'search_trips.dart';
